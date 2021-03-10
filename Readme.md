@@ -7,11 +7,6 @@ As an ending of our education at the BBS Rohrbach, as well as for our school lea
 The aim of our project was to create a smartphone app, which is able to translate a text just by taking a picture of it. At the end of our project we can proudly present what we achieved. With help of various new technologies, we developed an app that offers exactly these possibilities.
 
 Creators:
-Fabian Hintringer
-Raphael Peitl
-Henry Lechner
-
-Languages, Tools,...:
- - C#
- - Xamarin
- 
+ - Fabian Hintringer
+ - Raphael Peitl
+ - Henry Lechner
